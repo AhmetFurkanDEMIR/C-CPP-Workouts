@@ -23,7 +23,7 @@ int main(){
 
 	for(x=0;x<8;x++){
 
-		a = rand() % 30;
+		a = rand() % 20;
 
 		cout << "Rastgele sayi " << x << " = " << a << endl;
 
