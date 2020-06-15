@@ -165,7 +165,7 @@ int main(){
 				Beep(600, 500);
 				system("CLS");
 				printf("\n\n  -----DEMIR Guvenli veri sistemleri (Sifreler)----- ");
-				printf("\n\n  KYK Wifi sifresi = 1453637Af,");
+				printf("\n\n  KYK Wifi sifresi = 145363,");
 				
 				printf("\n\n\n  Ana menuye donmek icin  herhangi harfe, uygulamadan cikmak icin Q\' harfine basiniz. ");
 				secim=getch();
