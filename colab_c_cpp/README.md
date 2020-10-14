@@ -1,6 +1,6 @@
 # Running C / C ++ code through Colab
 
-In this article, we will learn how to compile C / C ++ codes over the GPU, and all these processes will be done via Google Colab.
+In this article, we will learn how to compile C / C ++ codes over the GPU, and all these processes will be done via Google Colab. What is Google Colab and how is it used? = https://github.com/AhmetFurkanDEMIR/Google-Colab
 
 Let's run the code block below and find out what is "nvcc" installation and version.
 
